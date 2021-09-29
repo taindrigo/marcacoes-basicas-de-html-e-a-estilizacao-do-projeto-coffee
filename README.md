@@ -2,7 +2,7 @@
 <br />
 MENTORAMA - FRONT END do ZERO
 <br />
-Lição de casa - Módulo 3 parte 2
+Lição de casa - Módulo 4 parte 2
 <br /><br />
 Inicie pelo index.html;
 <br />
